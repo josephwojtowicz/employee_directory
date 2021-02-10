@@ -9,8 +9,6 @@ Employee directory created with react. Use this to get a listing of 20 random
 employees, and search for them by name, email, or phone number.
 
 ## TECHNOLOGIES 
-React.js
-Bootstrap
-Axios
+React.js, Bootstrap, Axios
 
 
